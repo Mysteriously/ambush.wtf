@@ -1,1 +1,1 @@
-Site is live at denzelcurry.github.io/ambush.wtf
+Site is live at mysteriously.github.io/ambush.wtf
