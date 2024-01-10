@@ -1,1 +1,1 @@
-Site is live at ambush.wtf / mysteriously.github.io/ambush.wtf
+Site is live at ambush.ing / mysteriously.github.io/ambush.wtf
